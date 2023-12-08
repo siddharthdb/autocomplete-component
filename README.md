@@ -1,9 +1,11 @@
 # autocomplete-component
 
-## Start Server
+## Setup and start Server
  - `cd autocomplete-serv`
+ - `npm i`
  - `npm start`
 
-## Start Client
+## Setup and start Client
  - `cd autocomplete-input`
+ - `npm i`
  - `npm start`
