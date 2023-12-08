@@ -1,0 +1,38 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    margin: 0;
+    padding: 20px;
+    height: 100%;
+}
+
+.input-query {
+    height: 30px;
+    width: 250px;
+    padding: 5px;
+    border: 1px solid rgba(189, 189, 255, 0.471);
+}
+
+.list {
+    width: 250px;
+    border: 1px solid #cdcdcd;
+}
+
+.list-item {
+    font-size: 14px;
+    border-bottom: 1px solid #cdcdcd;
+    padding: 6px;
+}
+
+.list-item:hover {
+    background: #cdcdcd;
+    cursor: pointer;
+}
+
+.list-item div:last-child {
+    border-bottom: none;
+}
+
